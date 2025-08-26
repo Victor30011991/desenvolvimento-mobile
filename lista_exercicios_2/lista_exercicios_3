@@ -1,0 +1,17 @@
+<html>
+<head> 
+	<title>Logo Senac</title> 
+</head> 
+	<body>
+	 <!-- Link para o site institucional do Senac, que abre em uuma nova guia do navergador -->
+	<a href="https://www.pi.senac.br/." target="_blank">
+	<!-- Exibe a logo do Senac -->
+	<img
+	src="https://upload.wikimedia.org/wikipedia/commons/8/86/Senac_logo.svg"
+	width="450px"
+	alt="Senac"
+	>
+	</a>
+	<!-- João Victor, 26/08/2025 -->
+	</body> <!-- define a seção de conteúdo visível de um documento web. -->
+</html>
